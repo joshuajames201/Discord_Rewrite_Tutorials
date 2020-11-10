@@ -174,4 +174,4 @@ async def dm_all(ctx, *, args=None):
     else:
         await ctx.channel.send("A message was not provided.")
 
-bot.run("token")
+bot.run("NzM1NzUwMjU4ODIyMzQ4ODQw.Xxky0w.7tFfo3mvqJwsxJqd_XcuCgpX4Ts")
